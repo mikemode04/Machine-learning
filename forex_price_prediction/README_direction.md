@@ -5,14 +5,6 @@ we predict whether **tomorrow's FX return** (EUR/USD) will be positive or negati
 a **logistic regression** with **L2 regularization**, built in a proper
 `scikit-learn` pipeline and evaluated with **time-series cross-validation**.
 
-> Why this is STK-friendly:
-> - Clear probabilistic model (logit link, Bernoulli likelihood)
-> - Regularization (controls variance, reduces overfitting)
-> - Time-series split (avoids leakage; respects temporal order)
-> - Proper scoring rule (**Brier score**) + **ROC AUC**, accuracy and confusion matrix
-> - Minimal, reproducible code
-
----
 
 ## Data
 - Source: Yahoo Finance via `yfinance`
