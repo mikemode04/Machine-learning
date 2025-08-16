@@ -1,2 +1,6 @@
 # Machine-learning
-A collection of Python scripts showcasing different Machine Learning methods  on real datasets from UiO (STK2100).  Includes implementations of Linear Regression, GAM, Regression Trees,  Logistic Regression, LDA/QDA, and Neural Networks, with evaluation and visualization. 
+
+This repository contains:
+- Course-related ML models on UiO datasets (Linear Regression, GAM, Regression Trees, Logistic Regression, LDA/QDA, Neural Networks).
+- Personal projects applying ML and data analysis on financial markets, forex, and commodity/gas trading.
+The repo is a mix of academic and applied work, bridging statistics, machine learning, and real-world finance.
